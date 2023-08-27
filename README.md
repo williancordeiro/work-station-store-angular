@@ -1,5 +1,8 @@
 # work-station-store-angular
 
+## Protótipo
+- https://www.figma.com/file/JBpyjXCDPAUI6gruo4mRDH/work-station-store-angular?type=design&node-id=0-1&mode=design&t=I7XXOdgJjC8jVCA7-0
+
 ## Checklist
 #### RA1 - Prototipar e projetar interfaces gráficas de usuário, considerando princípios de usabilidade e experiência do usuário.
 - [ ] ID1: O aluno desenvolveu protótipos de interfaces que demonstram compreensão das diretrizes de usabilidade.
