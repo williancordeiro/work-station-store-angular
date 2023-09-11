@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Willian Cordeiro",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^16.2.1",
+    "typescript": "^5.2.2"
+  }
 }
