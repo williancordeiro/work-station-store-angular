@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { WsLogoComponent } from './ws-logo.component';
+import { IconComponent } from './icon.component';
 
-describe('WsLogoComponent', () => {
-  let component: WsLogoComponent;
-  let fixture: ComponentFixture<WsLogoComponent>;
+describe('IconComponent', () => {
+  let component: IconComponent;
+  let fixture: ComponentFixture<IconComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [WsLogoComponent]
+      declarations: [IconComponent]
     });
-    fixture = TestBed.createComponent(WsLogoComponent);
+    fixture = TestBed.createComponent(IconComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

@@ -1,0 +1,7 @@
+<ng-container *ngIf="isMobileScreen; else desktopIcon">
+    <img src="" alt="" srcset="assets/icon-mobile.png" />
+</ng-container>
+
+<ng-template #desktopIcon>
+    <img src="" alt="" srcset="assets/icon-desktop.png" />
+</ng-template>
